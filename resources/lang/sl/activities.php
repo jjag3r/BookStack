@@ -26,13 +26,13 @@ return [
     'chapter_move'                => 'premaknjeno poglavje',
 
     // Books
-    'book_create'                 => 'knjiga ustvarjena',
+    'book_create'                 => 'stran ustvarjena',
     'book_create_notification'    => 'Book successfully created',
-    'book_update'                 => 'knjiga posodobljena',
+    'book_update'                 => 'stran posodobljena',
     'book_update_notification'    => 'Book successfully updated',
-    'book_delete'                 => 'izbrisana knjiga',
+    'book_delete'                 => 'izbrisana stran',
     'book_delete_notification'    => 'Book successfully deleted',
-    'book_sort'                   => 'razvrščena knjiga',
+    'book_sort'                   => 'razvrščena stran',
     'book_sort_notification'      => 'Book successfully re-sorted',
 
     // Bookshelves
