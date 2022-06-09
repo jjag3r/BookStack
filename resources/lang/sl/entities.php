@@ -175,7 +175,7 @@ return [
     'page' => 'Stran',
     'pages' => 'Strani',
     'x_pages' => ':count Stran|:count Strani',
-    'pages_popular' => 'Priljubjene strani',
+    'pages_popular' => 'Priljubljene strani',
     'pages_new' => 'Nova stran',
     'pages_attachments' => 'Priponke',
     'pages_navigation' => 'Navigacija po strani',
